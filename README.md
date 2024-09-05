@@ -2,7 +2,7 @@ PROJETO MOBILE Descrição O projeto é uma aplicação mobile desenvolvida util
 
 Pré-requisitos Antes de começar, certifique-se de ter instalado as seguintes ferramentas:
 
-Node.js: link para download npm (gerenciador de pacotes do Node.js): geralmente é instalado junto com o Node.js Instalação Clone este repositório: git clone [https://github.com/Ellifas/projetomobile/settings](https://github.com/DavigSo/shop-games-mobile/tree/master) Acesse o diretório do projeto: cd projetomobile Instale as dependências: npm install Configuração [Se houver alguma configuração específica necessária para o projeto, adicione instruções detalhadas aqui.]
+Node.js: link para download npm (gerenciador de pacotes do Node.js): geralmente é instalado junto com o Node.js Instalação Clone este repositório: git clone (https://github.com/DavigSo/shop-games-mobile/tree/master) Acesse o diretório do projeto: cd projetomobile Instale as dependências: npm install Configuração [Se houver alguma configuração específica necessária para o projeto, adicione instruções detalhadas aqui.]
 
 Uso Certifique-se de ter configurado o ambiente Expo no seu sistema. Se ainda não tiver, execute o seguinte comando: expo init nome-do-projeto expo start
 
