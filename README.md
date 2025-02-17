@@ -104,18 +104,6 @@ Após iniciar o aplicativo, o usuário poderá:
 
 ---
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você deseja melhorar o aplicativo ou adicionar novas funcionalidades, sinta-se à vontade para abrir issues ou enviar pull requests.
-
----
-
-## Licença
-
-Este projeto é open-source e está licenciado sob a [Licença MIT](LICENSE).
-
----
-
 ## Contato
 
 Para dúvidas, sugestões ou suporte, entre em contato:
